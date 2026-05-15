@@ -1,4 +1,4 @@
-#Quick 🏫
+# Quick 🏫
 >This is a static web project for practive and design puposes
 
 🌐 LIVE SITE: 
