@@ -1,4 +1,17 @@
-# QUICK_SELF
- THIS A VERSION THAT I CREATED WITHOUT HELP JUST BY MY SELF
+#Quick 🏫
+>This is a static web project for practive and design puposes
 
-  https://rahimmiah09.github.io/QUICK/
+🌐 LIVE SITE: 
+
+Overview ✨
+This is a static, sleek, modern web project called Quick, built for practice, with a detailed, focused, responsive design and color theory.
+
+## Features 🎖️
+-Modern and sleek web design
+-All device responsiveness and design clarity with CSS media queries
+-Clean code and reusable blocks
+-code commented and easy to maintain
+## Tech Stack 🚀
+-HTML5
+-CSS3
+-Bootstrap
