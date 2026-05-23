@@ -11,7 +11,7 @@ This is a static, sleek, modern web project called Quick, built for practice, wi
 - All device responsiveness and design clarity with CSS media queries
 - Clean code and reusable blocks
 - code commented and easy to maintain
-## Tech Stack 🚀
+## Tech Stack 🚀  
 - HTML5
 - CSS3
 - Bootstrap
